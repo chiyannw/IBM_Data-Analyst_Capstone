@@ -1,1 +1,2 @@
-# IBM_Data-Analyst_Capstone
+# IBM Data Analyst Capstone
+This repository contains the final capstone project for the IBM Data Analyst Professional Certificate. The project showcases practical applications of data analysis techniques using Python, SQL, and data visualization tools. The goal of the capstone was to apply end-to-end data analysis skills, from data cleaning and wrangling to creating actionable insights and reports through visualizations.
